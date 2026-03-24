@@ -83,7 +83,6 @@
 
 ## 📬 Connect With Me
 
-<p>
 <a href="https://www.linkedin.com/in/sailesh-s-825293276/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -93,6 +92,5 @@
 <a href="https://github.com/SAILESH2508">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
 
 ---
