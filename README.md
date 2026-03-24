@@ -96,9 +96,3 @@
 </p>
 
 ---
-
-## 🎨 Footer Animation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
-</p>
