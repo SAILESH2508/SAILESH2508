@@ -83,7 +83,7 @@
 ## 🎯 Focus
 
 > 💻 Full Stack Development  
-> 🤖 AI & Gen AI Exploration  
+> 🤖 ML & Gen AI Exploration  
 > ⚙️ DevOps Practices  
 > ☁️ Cloud Technologies  
 
