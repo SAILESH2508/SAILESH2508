@@ -72,14 +72,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/SAILESH2508/SAILESH2508/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Focus
 
 > 💻 Full Stack Development  
@@ -108,5 +100,5 @@
 ## 🎨 Footer Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
 </p>
