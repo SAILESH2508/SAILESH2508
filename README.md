@@ -1,16 +1,112 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sailesh S</h1>
+<h3 align="center">🚀 Python Full Stack Developer | ML & Gen AI Enthusiast | DevOps Learner</h3>
 
-<!--
-**SAILESH2508/SAILESH2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;ML+%26+Gen+AI+Enthusiast;DevOps+Learner;Cloud+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+👉 https://portfolio-sailesh-s-11.vercel.app/
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Python Full Stack Developer  
+- 🤖 ML & Gen AI Enthusiast  
+- ⚙️ DevOps Learner  
+- ☁️ Working with Cloud & Automation tools  
+- 🚀 Passionate about building scalable applications  
+
+---
+
+## 🛠️ Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,react,tailwind,html,css,bootstrap,js,ts,php" />
+</p>
+
+---
+
+## 🗄️ Databases & Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAILESH2508&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAILESH2508&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/SAILESH2508/SAILESH2508/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Focus
+
+> 💻 Full Stack Development  
+> 🤖 AI & Gen AI Exploration  
+> ⚙️ DevOps Practices  
+> ☁️ Cloud Technologies  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/sailesh-s-825293276/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:sailesh25008@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/SAILESH2508">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 🎨 Footer Animation
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=footer"/>
+</p>
