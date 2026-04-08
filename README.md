@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAILESH2508&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=SAILESH2508&theme=tokyonight" />
 </p>
 ---
