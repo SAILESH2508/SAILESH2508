@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sailesh S</h1>
 <h3 align="center">🚀 Python Full Stack Developer | ML & Gen AI Enthusiast | DevOps Learner</h3>
 
-<!-- Animated Typing -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;ML+%26+Gen+AI+Enthusiast;DevOps+Learner;Cloud+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications" />
 </p>
@@ -56,17 +54,19 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SAILESH2508&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
