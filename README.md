@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Python Full Stack Developer | ML & Gen AI Enthusiast | DevOps Learner</h3>
 
 <!-- Animated Typing -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;ML+%26+Gen+AI+Enthusiast;DevOps+Learner;Cloud+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications" />
 </p>
@@ -9,17 +10,18 @@
 ---
 
 ## 🌐 Portfolio
+
 👉 https://portfolio-sailesh-s-11.vercel.app/
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Python Full Stack Developer  
-- 🤖 ML & Gen AI Enthusiast  
-- ⚙️ DevOps Learner  
-- ☁️ Working with Cloud & Automation tools  
-- 🚀 Passionate about building scalable applications  
+* 💻 Python Full Stack Developer
+* 🤖 ML & Gen AI Enthusiast
+* ⚙️ DevOps Learner
+* ☁️ Working with Cloud & Automation tools
+* 🚀 Passionate about building scalable applications
 
 ---
 
@@ -59,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAILESH2508&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAILESH2508&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SAILESH2508&theme=tokyonight" />
 </p>
 
 ---
@@ -74,10 +76,10 @@
 
 ## 🎯 Focus
 
-> 💻 Full Stack Development  
-> 🤖 ML & Gen AI Exploration  
-> ⚙️ DevOps Practices  
-> ☁️ Cloud Technologies  
+> 💻 Full Stack Development
+> 🤖 ML & Gen AI Exploration
+> ⚙️ DevOps Practices
+> ☁️ Cloud Technologies
 
 ---
 
