@@ -20,13 +20,13 @@
 <div align="center">
 
 <a href="https://portfolio-sailesh-s-11.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/SAILESH2508">
-  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sailesh-s-825293276/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -45,17 +45,19 @@
 
 Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested in building modern, scalable, and intelligent applications.
 
-- 💻 Python Full Stack Development
-- 🐍 Python • Django • Flask
-- ⚛️ React.js • JavaScript • HTML • CSS
-- 🤖 Machine Learning & Generative AI
-- 🧠 LLMs & RAG Applications
-- 📊 Data Science & Data Engineering
-- 🗄️ SQL • MySQL • SQLite • PostgreSQL
-- 🐳 Docker & DevOps
-- ☁️ AWS & Cloud Technologies
-- 🔄 CI/CD & Automation
-- 🚀 Always learning and building
+<div align="left">
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-7C3AED?style=for-the-badge&logo=langchain&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20%26%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20%26%20Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 <br clear="right"/>
 
@@ -78,7 +80,15 @@ Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested i
   <img src="https://skillicons.dev/icons?i=django,flask" />
 </div>
 
-**Backend Skills:** Django • Django REST Framework • Flask • REST APIs • Authentication • CRUD Applications • API Integration • Database Integration
+<div align="center">
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Auth](https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD%20Apps-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DB Integration](https://img.shields.io/badge/Database%20Integration-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
@@ -87,9 +97,22 @@ Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested i
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </div>
 
-**AI / ML:** Machine Learning • Deep Learning • Data Science • Natural Language Processing • Generative AI • Large Language Models • Retrieval-Augmented Generation • AI Chatbots • Vector Databases • AI API Integration
+<div align="center">
 
-**Data Science Libraries:**
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![DS](https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logo=googlescholar&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10A37F?style=for-the-badge&logo=langchain&logoColor=white)
+![Chatbots](https://img.shields.io/badge/AI%20Chatbots-FF4081?style=for-the-badge&logo=chatbot&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-4F46E5?style=for-the-badge&logo=pinecone&logoColor=white)
+![API](https://img.shields.io/badge/AI%20API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+**Data Science Libraries**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </div>
@@ -101,7 +124,16 @@ Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested i
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
 </div>
 
-**Database Skills:** SQL • CRUD Operations • Joins • Subqueries • Aggregate Functions • Group By / Having • Database Design • Normalization • Query Optimization
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Joins](https://img.shields.io/badge/Joins%20%26%20Subqueries-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Aggregate](https://img.shields.io/badge/Aggregate%20Functions-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Design](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Normalization](https://img.shields.io/badge/Normalization-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Optimization](https://img.shields.io/badge/Query%20Optimization-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
@@ -110,7 +142,14 @@ Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested i
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,terraform,jenkins,linux" />
 </div>
 
-**DevOps Skills:** Docker • Docker Compose • AWS • Terraform • CI/CD • Git & GitHub • Linux • Automation • Deployment
+<div align="center">
+
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
@@ -121,7 +160,7 @@ Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested i
   <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/GenAI-LLM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI-LLM-orange?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 An intelligent travel assistant designed to help users:
@@ -131,12 +170,18 @@ An intelligent travel assistant designed to help users:
 - 🌦️ Access weather information
 - 🤖 Interact with AI-powered travel assistance
 
-**Tech Stack:** React.js • Flask • SQLite • Machine Learning • Generative AI
-
 <div align="center">
-  <a href="https://github.com/SAILESH2508/RoamIQ">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<a href="https://github.com/SAILESH2508/RoamIQ">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -144,7 +189,16 @@ An intelligent travel assistant designed to help users:
 ## 🌦️ WeatherAI
 A full-stack weather application combining web technologies and Machine Learning for weather analysis and prediction.
 
-**Tech Stack:** React.js • Django • Machine Learning • TensorFlow / Keras • Chart.js • REST API
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
 
 ---
 
@@ -157,7 +211,14 @@ A full-stack placement management platform designed to manage:
 - 📊 Statistics
 - 🤖 ML-based Placement Prediction
 
-**Tech Stack:** React.js • Django REST Framework • SQLite • Machine Learning
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
 
 ---
 
@@ -180,14 +241,12 @@ A full-stack placement management platform designed to manage:
 
 <div align="center">
 
-|    🚀 Area    | 🔥 Focus                              |
-| :-----------: | :------------------------------------ |
-| 💻 Full Stack | Python • Django • Flask • React       |
-| 🤖 AI / ML    | Machine Learning • Deep Learning      |
-| ✨ GenAI      | LLMs • RAG • AI Applications          |
-| 📊 Data       | Data Science • SQL • Data Engineering |
-| ⚙️ DevOps     | Docker • CI/CD • Automation           |
-| ☁️ Cloud      | AWS • Cloud Deployment                |
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20Django%20%7C%20Flask%20%7C%20React-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Machine%20Learning%20%7C%20Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Data](https://img.shields.io/badge/Data-Science%20%7C%20SQL%20%7C%20Engineering-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -197,19 +256,12 @@ A full-stack placement management platform designed to manage:
 
 <div align="center">
 
-```text
-🧠 Advanced Machine Learning
-        ↓
-🤖 Generative AI & LLMs
-        ↓
-🔎 RAG & Vector Databases
-        ↓
-📊 Data Science & Data Engineering
-        ↓
-🐳 Docker & DevOps
-        ↓
-☁️ AWS & Cloud Technologies
-```
+![ML](https://img.shields.io/badge/Advanced%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20DBs-10A37F?style=for-the-badge&logo=langchain&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Science%20%26%20Engineering-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20%26%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -234,7 +286,7 @@ A full-stack placement management platform designed to manage:
 <div align="center">
 
 <a href="https://portfolio-sailesh-s-11.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
@@ -250,13 +302,13 @@ A full-stack placement management platform designed to manage:
 <div align="center">
 
 <a href="https://github.com/SAILESH2508">
-  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sailesh-s-825293276/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://portfolio-sailesh-s-11.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
