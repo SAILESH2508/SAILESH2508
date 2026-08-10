@@ -1,104 +1,295 @@
-# Hi there, I'm Sailesh S! 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sailesh-s-11.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailesh-s)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## 🧑‍💻 About Me
-
-* 💻 **Python Full Stack Developer** building scalable, end-to-end web applications.
-* 🤖 **ML & Gen AI Enthusiast** developing intelligent chatbots, prediction systems, and AI-driven tools.
-* ⚙️ **DevOps & Cloud Learner** optimizing deployments with CI/CD, Docker, and AWS.
-* 🚀 Passionate about clean architecture, responsive UI design, and continuous learning.
-
----
-
-## 🛠️ Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🌐 Full Stack Development
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
----
-
-## 🤖 ML, Gen AI & Data Science
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F79A3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Gen_AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 🗄️ Databases & Management
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sailesh-s-11&show_icons=true&theme=radial&hide_border=true" alt="Sailesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-s-11&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" width="48%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SAILESH%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20ML%20%7C%20GenAI%20%7C%20DevOps&descAlignY=55&descSize=18"/>
+
 </div>
 
+<!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-s-11&theme=radial&hide_border=true" alt="GitHub Streak" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;React+%7C+Django+%7C+Flask+Developer;DevOps+%26+Cloud+Learner;Building+Scalable+AI-Powered+Applications" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+<div align="center">
+
+<a href="https://portfolio-sailesh-s-11.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-FF6B35?style=for-the-badge"/>
+</a>
+<a href="https://github.com/SAILESH2508">
+  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sailesh-s-825293276/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAILESH2508&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+# 👨‍💻 About Me
 
-> 💻 **Full Stack Development:** Architecting Django + React enterprise applications.  
-> 🤖 **ML & Gen AI Exploration:** Integrating LLM APIs & RAG pipelines into products.  
-> ⚙️ **DevOps Practices:** Containerizing applications with Docker & automating CI/CD workflows.  
-> ☁️ **Cloud Technologies:** Deploying resilient services on AWS.
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Hi! I'm **Sailesh S**, a passionate **Python Full Stack Developer** interested in building modern, scalable, and intelligent applications.
+
+- 💻 Python Full Stack Development
+- 🐍 Python • Django • Flask
+- ⚛️ React.js • JavaScript • HTML • CSS
+- 🤖 Machine Learning & Generative AI
+- 🧠 LLMs & RAG Applications
+- 📊 Data Science & Data Engineering
+- 🗄️ SQL • MySQL • SQLite • PostgreSQL
+- 🐳 Docker & DevOps
+- ☁️ AWS & Cloud Technologies
+- 🔄 CI/CD & Automation
+- 🚀 Always learning and building
+
+<br clear="right"/>
 
 ---
 
-## 📬 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://portfolio-sailesh-s-11.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+## 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" />
+</div>
+
+## 🌐 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</div>
+
+## ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+</div>
+
+**Backend Skills:** Django • Django REST Framework • Flask • REST APIs • Authentication • CRUD Applications • API Integration • Database Integration
+
+---
+
+# 🤖 Machine Learning & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</div>
+
+**AI / ML:** Machine Learning • Deep Learning • Data Science • Natural Language Processing • Generative AI • Large Language Models • Retrieval-Augmented Generation • AI Chatbots • Vector Databases • AI API Integration
+
+**Data Science Libraries:**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</div>
+
+---
+
+# 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+</div>
+
+**Database Skills:** SQL • CRUD Operations • Joins • Subqueries • Aggregate Functions • Group By / Having • Database Design • Normalization • Query Optimization
+
+---
+
+# ⚙️ DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,terraform,jenkins,linux" />
+</div>
+
+**DevOps Skills:** Docker • Docker Compose • AWS • Terraform • CI/CD • Git & GitHub • Linux • Automation • Deployment
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 RoamIQ — AI Tourist Guide
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/GenAI-LLM-orange?style=for-the-badge"/>
+</div>
+
+An intelligent travel assistant designed to help users:
+- 🗺️ Discover destinations
+- ✈️ Plan trips
+- 📅 Generate itineraries
+- 🌦️ Access weather information
+- 🤖 Interact with AI-powered travel assistance
+
+**Tech Stack:** React.js • Flask • SQLite • Machine Learning • Generative AI
+
+<div align="center">
+  <a href="https://github.com/SAILESH2508/RoamIQ">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/sailesh-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
+
+---
+
+## 🌦️ WeatherAI
+A full-stack weather application combining web technologies and Machine Learning for weather analysis and prediction.
+
+**Tech Stack:** React.js • Django • Machine Learning • TensorFlow / Keras • Chart.js • REST API
+
+---
+
+## 🎓 Placement Portal
+A full-stack placement management platform designed to manage:
+- 👨‍🎓 Students
+- 🏢 Companies
+- 💼 Placements
+- 🔔 Notifications
+- 📊 Statistics
+- 🤖 ML-based Placement Prediction
+
+**Tech Stack:** React.js • Django REST Framework • SQLite • Machine Learning
+
+---
+
+# 📊 GitHub Analytics
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAILESH2508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SAILESH2508&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SAILESH2508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+---
+
+# 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SAILESH2508/SAILESH2508/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+---
+
+# 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAILESH2508&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+|    🚀 Area    | 🔥 Focus                              |
+| :-----------: | :------------------------------------ |
+| 💻 Full Stack | Python • Django • Flask • React       |
+| 🤖 AI / ML    | Machine Learning • Deep Learning      |
+| ✨ GenAI      | LLMs • RAG • AI Applications          |
+| 📊 Data       | Data Science • SQL • Data Engineering |
+| ⚙️ DevOps     | Docker • CI/CD • Automation           |
+| ☁️ Cloud      | AWS • Cloud Deployment                |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+```text
+🧠 Advanced Machine Learning
+        ↓
+🤖 Generative AI & LLMs
+        ↓
+🔎 RAG & Vector Databases
+        ↓
+📊 Data Science & Data Engineering
+        ↓
+🐳 Docker & DevOps
+        ↓
+☁️ AWS & Cloud Technologies
+```
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+> 💻 Code with Purpose
+> 🧠 Learn Continuously
+> 🤖 Build with AI
+> ⚙️ Automate Everything
+> 🚀 Deploy with Confidence
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://portfolio-sailesh-s-11.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+**https://portfolio-sailesh-s-11.vercel.app/**
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/SAILESH2508">
+  <img src="https://img.shields.io/badge/GitHub-SAILESH2508-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sailesh-s-825293276/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sailesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://portfolio-sailesh-s-11.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=fadeIn"/>
+
+### ⭐ Thanks for visiting my profile!
+
+### 💻 Build • 🤖 Learn • ⚙️ Automate • 🚀 Innovate
+
+</div>
