@@ -183,13 +183,6 @@ A full-stack placement management platform designed to manage:
 
 ---
 
-# 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SAILESH2508/SAILESH2508/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
----
-
 # 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAILESH2508&theme=tokyo-night&hide_border=true&area=true" />
