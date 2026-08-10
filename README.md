@@ -164,21 +164,7 @@ A full-stack placement management platform designed to manage:
 # 📊 GitHub Analytics
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAILESH2508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SAILESH2508&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAILESH2508&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</div>
-
----
-
-# 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAILESH2508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=SAILESH2508&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
